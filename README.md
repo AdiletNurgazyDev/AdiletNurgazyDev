@@ -2,21 +2,55 @@
 
 ### 🚀 Junior+ Mobile Developer | Flutter & iOS Developer
 
-Мне 20 лет, я Junior+ Mobile Developer, специализируюсь на разработке мобильных приложений на Flutter и Swift.
+Я Адилет, 20 лет, Junior+ Mobile Developer, специализируюсь на разработке мобильных приложений на Flutter и Swift.
 
-Я люблю создавать удобные, быстрые и масштабируемые приложения, а также постоянно развиваться в области мобильной разработки, архитектуры и чистого кода.
+Фокусируюсь на создании качественных, масштабируемых и удобных мобильных приложений с чистой архитектурой и продуманным UX.
 
 ---
 
 ## 💡 Обо мне
 
 - 📱 Разрабатываю мобильные приложения на Flutter и Swift
-- 🎓 Студент IT-направления
-- 🧠 Интересуюсь архитектурой приложений (Clean Architecture, MVVM)
-- 🔥 Пишу pet-проекты и развиваю практические навыки
-- 📚 Постоянно изучаю новые технологии
+- 🎓 Студент IT-направления (мобильная разработка)
+- 🧠 Углубляюсь в архитектуру приложений: Clean Architecture, MVVM, SOLID
+- ⚙️ Пишу pet-проекты и участвую в разработке реальных проектов
+- 🔥 Люблю доводить проекты до production-качества
+- 📚 Постоянно изучаю новые технологии и лучшие практики
 - 🌍 Открыт к работе Junior / Junior+ Mobile Developer
-- 📍 Казахстан г Алматы
+- 📍 Казахстан, г. Алматы
+
+---
+
+## 💼 Опыт работы
+
+### 🏢 Mobile Developer Flutter
+**Компания:** Ai Parking  
+📅 Май 2025 — по настоящее время  
+📍 Алматы, Казахстан  
+
+**Обязанности:**
+- Разработка мобильных приложений на Flutter
+- Реализация архитектуры приложений (MVVM / Clean Architecture)
+- Интеграция REST API
+- Работа с локальным хранением данных (Hive, SharedPreferences)
+- Оптимизация UI и производительности приложений
+- Исправление багов и поддержка существующих проектов
+- Работа в команде через Git и code review
+
+---
+
+### 🏢 Mobile Developer (Flutter / iOS)
+**Компания:** XXLMOBEL
+📅 Январь 2026 — Апрель 2026  
+📍 Алматы, Казахстан  
+
+**Обязанности:**
+- Участие в разработке мобильных приложений
+- Интеграция API и сторонних сервисов
+- Верстка UI по макетам Figma
+- Исправление багов и улучшение стабильности приложений
+- Работа с BLoC
+- Работы с Background Service
 
 ---
 
@@ -32,7 +66,7 @@
 
 ---
 
-### 🧠 Архитектура и паттерны
+### 🧠 Архитектура и подходы
 
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-9C27B0?style=for-the-badge)
@@ -51,7 +85,7 @@
 
 ---
 
-### 💾 Storage
+### 💾 Storage & Data
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge)
@@ -89,11 +123,23 @@
 
 ## 📈 Цели
 
-- Развиваться как сильный Mobile Developer
-- Участвовать в реальных коммерческих проектах
-- Углубить знания в архитектуре и системном дизайне
+- Стать сильным Mobile Developer (Middle level)
+- Работать над коммерческими продуктами с реальными пользователями
+- Углубить знания в архитектуре и масштабировании приложений
+- Развиваться в backend-интеграции и system design
 - Работать в сильной инженерной команде
-- Вырасти до Middle+ разработчика
+
+---
+
+## 💼 Что я умею
+
+- Разработка мобильных приложений с нуля (Flutter / iOS)
+- Интеграция REST API и Firebase
+- Авторизация, работа с токенами, безопасность
+- Локальное хранение данных
+- Построение архитектуры (MVVM / Clean Architecture)
+- Оптимизация и рефакторинг кода
+- Работа в команде через Git (code review, branching)
 
 ---
 
@@ -105,23 +151,13 @@
 
 ---
 
-## 💼 Что я могу делать
-
-- Разработка мобильных приложений с нуля
-- Интеграция REST API / Firebase
-- Построение архитектуры (MVVM, Clean Architecture)
-- Работа с базами данных
-- Поддержка и оптимизация приложений
-- Написание чистого и поддерживаемого кода
-- Работа в команде через Git
-
----
-
 ## 📫 Контакты
 
 [![GitHub](https://img.shields.io/badge/GitHub-AdiletNurgazyDev-181717?style=for-the-badge&logo=github)](https://github.com/AdiletNurgazyDev)
-[![Telegram](https://img.shields.io/badge/Telegram-@your_telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/adilet_nurgazy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://info.jetbrains.com/user-mailing-preferences.html?utm_source=marketo&utm_medium=email&utm_campaign=general&utm_content=newsletter&map=2&leadId=&mkt_tok=NDI2LVFWRC0xMTQAAAGiSw49FlRBybRTGgGoGv2vMl9r3_ZuKDd9Hqw6DuMdQszbVcMESySpE0GRFQnCdJekwhBlBL5wqrsHpYJzo3MhUmkYi_Rk5HdJ_p9d41gupkojYtE)
+
+[![Telegram](https://img.shields.io/badge/Telegram-adilet_nurgazy-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/adilet_nurgazy)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your_linkedin)
 
 [![Email](https://img.shields.io/badge/Email-adiletnurgazy0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiletnurgazy0@gmail.com)
 
