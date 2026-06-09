@@ -16,7 +16,7 @@
 - 🔥 Пишу pet-проекты и развиваю практические навыки
 - 📚 Постоянно изучаю новые технологии
 - 🌍 Открыт к работе Junior / Junior+ Mobile Developer
-- 📍 Казахстан
+- 📍 Казахстан г Алматы
 
 ---
 
@@ -119,10 +119,11 @@
 
 ## 📫 Контакты
 
-- GitHub: https://github.com/AdiletNurgazyDev
-- Telegram: @your_telegram
-- LinkedIn: your_linkedin
-- Email: your_email@example.com
+[![GitHub](https://img.shields.io/badge/GitHub-AdiletNurgazyDev-181717?style=for-the-badge&logo=github)](https://github.com/AdiletNurgazyDev)
+[![Telegram](https://img.shields.io/badge/Telegram-@your_telegram-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/adilet_nurgazy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://info.jetbrains.com/user-mailing-preferences.html?utm_source=marketo&utm_medium=email&utm_campaign=general&utm_content=newsletter&map=2&leadId=&mkt_tok=NDI2LVFWRC0xMTQAAAGiSw49FlRBybRTGgGoGv2vMl9r3_ZuKDd9Hqw6DuMdQszbVcMESySpE0GRFQnCdJekwhBlBL5wqrsHpYJzo3MhUmkYi_Rk5HdJ_p9d41gupkojYtE)
+
+[![Email](https://img.shields.io/badge/Email-adiletnurgazy0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adiletnurgazy0@gmail.com)
 
 ---
 
