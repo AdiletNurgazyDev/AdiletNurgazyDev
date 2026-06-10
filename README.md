@@ -5,7 +5,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/adilet_nurgazy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdiletNurgazyDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/adilet-nurgazy-4071b0296)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adiletnurgazy0@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=AdiletNurgazyDev&color=0175C2&style=flat-square&label=Profile+Views)](https://github.com/AdiletNurgazyDev)
 
@@ -184,54 +184,19 @@ final adilet = Developer(
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiletNurgazyDev&bg_color=0d1117&color=0175C2&line=0175C2&point=F05138&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdiletNurgazyDev&bg_color=0d1117&color=0175C2&line=0175C2&point=F05138&area=true&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-> **Snake-анимация:** чтобы включить, добавь в репозиторий GitHub Action ниже 👇
+---
 
-<details>
-<summary>⚙️ Настройка Snake-анимации (GitHub Action)</summary>
+## 🏆 GitHub Трофеи
 
-Создай файл `.github/workflows/snake.yml` в своём profile-репозитории:
+<div align="center">
 
-```yaml
-name: Generate Snake
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AdiletNurgazyDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AdiletNurgazyDev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-После того как Action отработает, раскомментируй эти строки в README:
-
-```markdown
-![snake dark](https://raw.githubusercontent.com/AdiletNurgazyDev/AdiletNurgazyDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://raw.githubusercontent.com/AdiletNurgazyDev/AdiletNurgazyDev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-```
-
-</details>
+</div>
 
 ---
 
