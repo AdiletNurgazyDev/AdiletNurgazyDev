@@ -1,7 +1,7 @@
 <div align="center">
 
 # Adilet Nurgazy
-### Junior+ Mobile Developer · Flutter & iOS
+### Middle Mobile Developer · Flutter & iOS
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/adilet_nurgazy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdiletNurgazyDev)
@@ -15,7 +15,7 @@
 
 ## Привет, я Адилет 👋
 
-Мне 20 лет, я **Junior+ Mobile Developer** из Алматы. Специализируюсь на разработке мобильных приложений на **Flutter** и **Swift/SwiftUI**. Фокус — чистая архитектура, масштабируемый код и продуманный UX. Участвую в реальных коммерческих проектах и ежедневно прокачиваю технические навыки.
+Мне 20 лет, я **Middle Mobile Developer** из Алматы. Специализируюсь на разработке мобильных приложений на **Flutter** и **Swift/SwiftUI**. Фокус — чистая архитектура, масштабируемый код и продуманный UX. Участвую в реальных коммерческих проектах и ежедневно прокачиваю технические навыки.
 
 ```dart
 final adilet = Developer(
